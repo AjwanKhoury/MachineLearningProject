@@ -1,7 +1,7 @@
 # MachineLearningProject
-Customer Segmentation Project
-We are an online company and we have dataset containing online sales.
-We want to segment our customers to groups to give them targeted commercials.
+Customer Segmentation Project\
+We are an online company and we have dataset containing online sales.\
+We want to segment our customers to groups to give them targeted commercials.\
 My Goal in this project is to find the best customer segmentation.
 
 ### METHODS
